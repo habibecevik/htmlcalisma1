@@ -1,0 +1,112 @@
+<html>
+  <head>
+  <link rel="stylesheet" href="style.css">
+</head>
+  <body>
+    <h1 class="second"> DERS TABLOSU </h1>
+
+    <hr>
+    <p> <i> <b> Bahar dönemi YBS 2. sınıf ders programıdır.</b> </i> </p>
+     <p>
+       <i> <b> Dersler iki çeşittir.</b> </i>
+       <ul type="square"> 
+         <li> <b> ÇEVRİMİÇİ </b></li>
+         <li> <b> YÜZYÜZE </></li>
+         
+     </p>
+      <p> <h2 class="center">
+        <caption> <b> BAHAR DÖNEMİ YBS DERS PROGRAMI </b> </caption> 
+      </p> </h2>
+       
+      <table width="40%" border="2" cellpadding="5" cellspacing="5" class="style-table">
+      <tr>
+        <td> <b> DERS </b> </td>
+        <td> <b> GÜN SAAT </b></td>
+        <td colspan="2"> <b> DERS ÇEŞİDİ </b> </td>
+      </tr>
+        <tr>
+          <td> Veritabanı </td>
+          <td> Pazartesi <b>11:00</b> </td>
+          <td> Yüzyüze</td>
+        </tr>
+        <tr>
+          <td> İşletme Matematiği </td>
+          <td> Pazartesi <b> 14:00</b> </td>
+          <td> Yüzyüze </td>
+        </tr>
+        <tr>
+          <td> Hizmet İçi Eğitim </td>
+          <td> Salı <b> 11:00 </b> </td>
+          <td> Y-Ç </td>
+        </tr>
+        <tr>
+          <td> Görsel Arayüz </td>
+          <td> Salı <b> 14:00 </b> </td>
+          <td> Y-Ç </td>
+        </tr>
+        <tr>
+          <td> Dijital Pazarlama </td>
+          <td> Çarşamba <b>14:00</b> </td>
+          <td> Çevrimiçi </td>
+        </tr>
+        <tr>
+          <td> Finansal Muhasebe </td>
+          <td> Perşembe <b> 09:30 </b></td>
+          <td> Çevrimiçi </td>
+        </tr>
+        <tr>
+          <td> Web Tasarım </td>
+          <td> Perşembe <b>11:00</b></td>
+          <td> Yüzyüze </td>
+        </tr>
+        <tr>
+          <td> Üretim Yönetimi </td>
+          <td> Perşembe <b> 14:00 </b></td>
+          <td> Çevrimiçi </td>
+        </tr>
+        <tr>
+          <td> Kariyer Planlama </td>
+          <td> Cuma <b> 18:00 </b> </td>
+          <td> Çevrimiçi </td>
+        </tr>
+      </table> 
+<p> <b> <i> <mark> Ders kayıtlarına ulaşmak için </mark>aşağıdaki linki kullanabilirsiniz.</i></b>
+</p>
+<p> <div class="link">
+  <a href="https://uek.ktu.edu.tr/ogrenci.html" title="Uzem Linki"> KTÜ UZEM </a>
+</p> </div> 
+
+<p> <b> <i> <mark> <abbr title=”KaradenizTeknikÜniversitesi”>KTÜ</abrr></mark> <mark> Uzem </mark>hakkında detaylı bilgi için aşağıdaki linki inceleyebilirsiniz. </i> </b> </p> 
+<p> <div class="link">
+  <a href="https://www.ktu.edu.tr/dosyalar/iibf_dc699.pdf" title="Uzem El Kitabı"> Uzem El Kitabı </a>
+</p> </div>
+         
+<body>
+  
+<div class="background"> Ders Kredileri </div>
+
+<p class="border-dashed"> VERİTABANI 4 </p>
+<p class="border-dotted"> İŞLETME MATEMATİĞİ 5 </p>
+<p class="border-double"> HİZMETİÇİ EĞİTİM 4</p>
+<p class="border-groove"> GÖRSEL ARAYÜZ 4 </p>
+<p class="border-hidden"> DİJİTAL PAZARLAMA 4 </p>
+<p class="border-outset"> FİNANSAL MUHASEBE 3 </p>
+<p class="border-inset"> WEB TASARIM 4 </p>
+<p class="border-none"> ÜRETİM YÖNETİMİ 3 </p>
+<p class="border-ridge"> KARİYER PLANLAMA 4 </p>
+<p class="border-mix"> <strong> Ders kredileri ortalamanızı oluşturmak için gereklidir.</strong> </p>
+
+  <h4 class="style-border"> BU SAYFANIN HAKLARI SAKLIDIR.</body>    
+        
+        
+
+
+    
+  </body>
+
+
+
+
+
+
+</html>
