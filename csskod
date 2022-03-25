@@ -1,0 +1,150 @@
+h1.center{
+  text-align:center;
+}
+h1 {
+  text-align: center;
+  color:green;
+  background-color: darkgoldenrod;
+  border: 5px solid #a3d41c
+}
+h2{
+  color: blueviolet;
+}
+
+h2.center{
+  text-align:center;
+}
+
+
+p{
+  color: #803900;
+  font-size: 15px;
+  
+}
+body{
+  background-color:lightyellow;
+}
+table{
+  color: blueviolet;
+  border-color: green;
+}
+li{
+  color: gray;
+}
+
+.link a{
+  color: green;
+  text-decoration: underline;
+}
+.link a:hover{
+  color: red;
+  text-decoration: none;
+}
+.link a:active{
+  background-color: yellow;
+  color: blueviolet;
+  text-decoration: none
+}
+
+table {
+  
+  font size: 10px;
+  border-color: purple ;
+}
+    
+tr {
+  color: darkmagenta;
+  background: darksalmon;
+}
+.background{
+  background-color: pink;
+  color: #7d8000;
+  padding: 20px;
+  weidth: 50%;
+  font-size: 20px;
+}
+
+.border-dashed{
+  border-style: dashed;
+  font-size: 18px;
+  color: #7d8000;
+}
+.border-dotted{
+  border-style: dotted;
+  font-size: 18px;
+  color: #7d8000;
+  
+}
+.border-double{
+  border-style: double;
+  font-size: 18px;
+  color: #7d8000;
+}
+.border-groove{
+  border-style: groove;
+  font-size: 18px;
+  color: #7d8000;
+}
+.border-hidden{
+  border-style: hidden;
+  font-size: 18px;
+  color: #7d8000;
+}
+.border-outset{
+  border-style: outset;
+  font-size: 18px;
+  color: #7d8000;
+}
+.border-inset{
+  border-style: inset;
+  font-size: 18px;
+  color: #7d8000;
+}
+.border-none{
+  border-style: none;
+  font-size: 18px;
+  color: #7d8000;
+}
+.border-ridge{
+  font-size: 18px;
+  border-style: ridge;
+  color: #806f00;
+}
+.border-mix{
+  padding: 14px;
+  weidth: 10px;
+  border-top: dashed;
+  border-right: ridge;
+  border-left: ridge;
+  border-bottom: solid;
+}
+.style-border{
+  border-style: solid;
+  padding: 15px;
+  border-style: medium;
+  border-color: red blue purple yellow;
+  /* 
+  border-top-color: red;
+  border-right-color: blue;
+  border-bottom-color: purple;
+  border-left-color: yellow
+  
+  border-color:rgb(8,255,0)
+  */
+  
+  /*
+  border-style: inherit;
+  border-style: thick;
+  border-style: thin;
+  /*
+  border-top-width: 8px;
+  border-right-width: 8px;
+  border-bottom-width: 8px;
+  border-left-width: 8px;
+  */
+  /* 
+  border-width: 8px 8px 8px 8px;
+  border-width: 8px 6px 4px;
+  border-width: 8px 8px; 
+  */
+}
